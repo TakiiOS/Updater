@@ -1,1 +1,1 @@
-
+https://raw.githubusercontent.com/TakiiOS/Updater/main/bluetooth/bluetooth.zip
