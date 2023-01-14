@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/TakiiOS/Updater/main/audio/audio.txt
+https://raw.githubusercontent.com/TakiiOS/Updater/main/audio/audio.zip
